@@ -1,6 +1,8 @@
 ### Hi there 👋
 "My personal repository.
-[![trophy](https://github-profile-trophy.vercel.app/?username=geekyvinayak)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=geekyvinayak&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=geekyvinayak)
 <!--
 **geekyvinayak/geekyvinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
