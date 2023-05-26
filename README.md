@@ -16,6 +16,7 @@
 
 ## 🏆 *Github Status*
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyvinayak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img  src="https://github-readme-stats.vercel.app/api?username=geekyvinayak&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=geekyvinayak&theme=dark" width="48%" >
 <br>
