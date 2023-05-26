@@ -16,14 +16,17 @@
 
 ## 🏆 *Github Status*
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyvinayak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=geekyvinayak&rank=S,AAA,AA,A,B&theme=juicyfresh&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img  src="https://github-readme-stats.vercel.app/api?username=geekyvinayak&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=geekyvinayak&theme=dark" width="48%" >
 <br>
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=geekyvinayak&rank=S,AAA,AA,A,B&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=geekyvinayak&label=Profile%20views&color=0e75b6&style=flat" alt="geekyvinayak" /> </p>
 </div>
