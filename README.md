@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vinayak Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React , Nodejs**
+- 🌱 I’m currently working with  **React , Nodejs ,Mongo-Db**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/geekyvinayak](https://linktr.ee/geekyvinayak)
 
-- 📫 How to reach me **geekyvinayak@gmail.com**
+- 📫 How to reach me
+  -    **✉️&nbsp; geekyvinayak@gmail.com**
+  -    **<img src="https://github.com/geekyvinayak/geekyvinayak/assets/67498083/eb8ed711-21a5-472d-8989-d549cacb5464" alt="linux" width="20" height="20"/> 
+ &nbsp;[Linked-In](https://www.linkedin.com/in/ivinayakpandey)**
+
+
 
 
 <br>
